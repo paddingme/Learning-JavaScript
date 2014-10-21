@@ -1,6 +1,7 @@
-# 这里记载下我学 JavaScript 历程
+# 这里记载下我学 JavaScript 的历程
 
 >人生苦短，历久弥新
+
   >上善若水，笃学敦行
 
 ## 《JavaScript DOM 编程艺术》
