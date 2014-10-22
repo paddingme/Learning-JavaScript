@@ -4,7 +4,12 @@
   >人生苦短，应有尽时；
 
 ## 1.《JavaScript DOM 编程艺术》
+|             章节     |  新建时间    |   更新时间   |更新状态|
+|----------------------|--------------|--------------|--------|
+|[第一章 JavaScript 简史](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-1.md)|2014年10月22日|2014年10月22日|  new1  |
 
+
+<!-- |[第二章 语法](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-2.md)|2014年10月22日|2014年10月22日|  new1  | -->
 
 
 
@@ -37,5 +42,5 @@
 |[第二章 数组](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/5-2.md) |2014年10月21日|2014年10月21日|new1|
 
 
-http://s1.idownbt.com/attachment/torrent/201405/25/185243ujpwd7d727ruh2ki.torrent
+
 
