@@ -36,3 +36,6 @@
 |[第一章 JavaScirpt 的编程环境和模型](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/5-1.md)|2014年10月21日|2014年10月21日|new1|
 |[第二章 数组](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/5-2.md) |2014年10月21日|2014年10月21日|new1|
 
+
+http://s1.idownbt.com/attachment/torrent/201405/25/185243ujpwd7d727ruh2ki.torrent
+
