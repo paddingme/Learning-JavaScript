@@ -9,6 +9,7 @@
 |[第一章 JavaScript 简史](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-1.md)|2014年10月22日|2014年10月22日|  new1  |
 |[第二章 语法](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-2.md)|2014年10月23日|2014年10月23日|  new1  |
 |[第三章 DOM](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-3.md)|2014年10月28日|2014年10月28日|  new1  |
+|[第三章 JavaScript 图片库](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-4.md)|2014年10月30日|2014年10月30日|  new1  |
 
 
 
