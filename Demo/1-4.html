@@ -5,16 +5,45 @@
     <title>1-4 案例研究： JavaScript 图片库</title>
     <style>
         body {
-            width: 960px;
-            margin: 0 auto;
+           margin: 1em 10%;
+           color: #333;
+           background-color: #ccc;
+           font-family: "Helvetica","Arial",serif;
         }
-        #placeholder {
+
+        h1 {
+            color: #333;
+            background-color: rgba(0, 0, 0, 0);
+        }
+
+        a {
+            color: #c60;
+            background-color: rgba(0, 0, 0, 0);
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        ul {
+            padding: 0;
+        }
+
+        li {
+            float: left;
+            padding: 1em;
+            list-style-type: none;
+        }
+
+        img {
+            display: block;
+            clear: both;
             width: 424px;
             height: 424px;
             border: 1px solid #ccc;
         }
     </style>
+
 </head>
+
 <body>
     <h1>Snapshots</h1>
     <ul>
@@ -27,16 +56,17 @@
 
     <img id="placeholder"  src="images/codercat.jpg" alt="">
 
-    <p class="decription">请选择一张图片</p>
+    <p id="decription">请选择一张图片</p>
 
     <script>
         function showPic(whichpic){
             var source = whichpic.getAttribute('href');
             var placeholder = document.getElementById('placeholder');
             placeholder.setAttribute('src',source);
-
             //placeholder.src = source;
-
+            var text = whichpic.getAttribute('title');
+            var decription = document.getElementById('decription');
+            decription.firstChild.nodeValue = text;
         }
 
     </script>
