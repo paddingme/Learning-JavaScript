@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+    <meta charset="UTF-8">
+    <title>1-4 案例研究： JavaScript 图片库</title>
+    <style>
+        body {
+            width: 960px;
+            margin: 0 auto;
+        }
+        #placeholder {
+            width: 424px;
+            height: 424px;
+            border: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <h1>Snapshots</h1>
+    <ul>
+        <li><a href="images/codercat.jpg"  title="This is codercat.jpg." onclick="showPic(this);return false;">codercat</a></li>
+        <li><a href="images/inspectocat.jpg" title="This is inspectocat.jpg." onclick="showPic(this);return false;">inspectocat</a></li>
+        <li><a href="images/maxtocat.gif" title="This is maxtocat.gif." onclick="showPic(this);return false;">maxtocat</a></li>
+        <li><a href="images/yaktocat.png" title="This is yaktocat.png." onclick="showPic(this);return false;">yaktocat</a></li>
+        <li><a href="images/octobiwan.jpg" title="This isoctobiwan.jpg." onclick="showPic(this);return false;">octobiwan</a></li>
+    </ul>
+
+    <img id="placeholder"  src="images/codercat.jpg" alt="">
+
+    <p class="decription">请选择一张图片</p>
+
+    <script>
+        function showPic(whichpic){
+            var source = whichpic.getAttribute('href');
+            var placeholder = document.getElementById('placeholder');
+            placeholder.setAttribute('src',source);
+
+            //placeholder.src = source;
+
+        }
+
+    </script>
+
+
+</body>
+</html>
