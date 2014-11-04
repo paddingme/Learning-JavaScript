@@ -12,6 +12,7 @@
 |[第三章 DOM](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-3.md)|2014年10月28日|2014年11月4日|  review+3  |
 |[第四章 JavaScript 图片库](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-4.md)|2014年10月31日|2014年10月31日|  new+1  |
 |[第五章 最佳实践](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-5.md)|2014年11月3日|2014年11月3日|  new+1  |
+|[第六章 图片库改进版](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-6.md)|2014年11月3日|2014年11月4日|  new+1  |
 
 
 
