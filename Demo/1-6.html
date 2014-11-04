@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+    <meta charset="UTF-8">
+    <title>1-4 案例研究： JavaScript 图片库</title>
+    <style>
+        /*todo 可以用 CSS 实现 可以有至少两种方法实现*/
+        /*demo 地址：http://codepen.io/paddingme/pen/qCuDo*/
+        body {
+           margin: 1em 10%;
+           color: #333;
+           background-color: #ccc;
+           font-family: "Helvetica","Arial",serif;
+        }
+
+        h1 {
+            color: #333;
+            background-color: rgba(0, 0, 0, 0);
+        }
+
+        a {
+            color: #c60;
+            background-color: rgba(0, 0, 0, 0);
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        ul {
+            padding: 0;
+        }
+
+        li {
+            float: left;
+            padding: 1em;
+            list-style-type: none;
+        }
+
+        img {
+            display: block;
+            clear: both;
+            width: 424px;
+            height: 424px;
+            border: 1px solid #ccc;
+        }
+    </style>
+
+</head>
+
+<body>
+    <h1>Snapshots</h1>
+    <ul>
+        <li><a href="images/codercat.jpg"  title="This is codercat.jpg." onclick="showPic(this);return false;">codercat</a></li>
+        <li><a href="images/inspectocat.jpg" title="This is inspectocat.jpg." onclick="showPic(this);return false;">inspectocat</a></li>
+        <li><a href="images/maxtocat.gif" title="This is maxtocat.gif." onclick="showPic(this);return false;">maxtocat</a></li>
+        <li><a href="images/yaktocat.png" title="This is yaktocat.png." onclick="showPic(this);return false;">yaktocat</a></li>
+        <li><a href="images/octobiwan.jpg" title="This isoctobiwan.jpg." onclick="showPic(this);return false;">octobiwan</a></li>
+    </ul>
+
+    <img id="placeholder"  src="images/codercat.jpg" alt="">
+
+    <p id="decription">请选择一张图片</p>
+
+    <script>
+   function showPic(whichpic) {
+        if(!document.getElementById('placeholder')) return false;
+        var source = whichpic.getAttribute('href');
+        var placeholder = document.getElementById('placeholder');
+        if(placeholder.nodeName != "IMG") return false;
+        placeholder.setAttribute('src',source);
+        if(document.getElementById('decription')){
+            var text = whichpic.getAttribute('title') ? whichpic.getAttribute('title') : "";
+            var decription = document.getElementById('decription');
+            if(decription.firstChild.nodeValue == 3) {
+             decription.firstChild.nodeValue= text;
+            }
+        }
+        return true;
+    }
+    </script>
+
+
+</body>
+</html>
