@@ -50,5 +50,10 @@
 |[第二章 数组](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/5-2.md) |2014年10月21日|2014年10月21日|new+1|
 
 
+## 6. [90天慕女神助力计划](http://www.imooc.com/wenda/detail/234205)
+
++ [【JavaScript】【学习心得】学习 JavaScript 第一天](https://github.com/paddingme/Learning-JavaScript/issues/1)
++ [【JavaScript】【学习心得】学习 JavaScript 第二天](https://github.com/paddingme/Learning-JavaScript/issues/5)
+
 
 
