@@ -3,7 +3,6 @@
   >上善若水，笃学敦行；
   >人生苦短，应有尽时。
 
-
 ## 1.《JavaScript DOM 编程艺术》
 |             章节     |  新建时间    |   更新时间   |更新状态|
 |----------------------|--------------|--------------|--------|
@@ -15,6 +14,7 @@
 |[第六章 图片库改进版](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-6.md)|2014年11月3日|2014年11月13日|  review+4 |
 |[第七章 动态创建标记](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-7.md)|2014年11月14日|2014年11月22日|  review+4 |
 |[第八章 充实文档的内容](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-8.md)|2014年11月20日|2014年11月22日|  review+2|
+
 
 
 ## 2.《JavaScript 高级程序设计》
@@ -54,6 +54,7 @@
 + [【JavaScript】【学习心得】学习 JavaScript 第四天](https://github.com/paddingme/Learning-JavaScript/issues/7)
 + [【JavaScript】【学习心得】学习 JavaScript 第五天](https://github.com/paddingme/Learning-JavaScript/issues/9)
 + [【JavaScript】【学习心得】学习 JavaScript 第六天](https://github.com/paddingme/Learning-JavaScript/issues/10)
++ [【JavaScript】【学习心得】学习 JavaScript 第七天](https://github.com/paddingme/Learning-JavaScript/issues/11)
 
 
 
