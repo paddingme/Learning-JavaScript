@@ -14,6 +14,7 @@
 |[第六章 图片库改进版](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-6.md)|2014年11月3日|2014年11月13日|  review+4 |
 |[第七章 动态创建标记](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-7.md)|2014年11月14日|2014年11月22日|  review+4 |
 |[第八章 充实文档的内容](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-8.md)|2014年11月20日|2014年11月22日|  review+2|
+|[第九章 第九章 CSS-DOM](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-9.md)|2014年11月24日|2014年11月24日|  new+1|
 
 
 
@@ -47,6 +48,7 @@
 
 
 ## 6. [90天慕女神助力计划](http://www.imooc.com/wenda/detail/234205)
+以下均为对上述学习笔记的总结。
 
 + [【JavaScript】【学习心得】学习 JavaScript 第一天](https://github.com/paddingme/Learning-JavaScript/issues/1)
 + [【JavaScript】【学习心得】学习 JavaScript 第二天](https://github.com/paddingme/Learning-JavaScript/issues/5)
@@ -55,6 +57,7 @@
 + [【JavaScript】【学习心得】学习 JavaScript 第五天](https://github.com/paddingme/Learning-JavaScript/issues/9)
 + [【JavaScript】【学习心得】学习 JavaScript 第六天](https://github.com/paddingme/Learning-JavaScript/issues/10)
 + [【JavaScript】【学习心得】学习 JavaScript 第七天](https://github.com/paddingme/Learning-JavaScript/issues/11)
++ [【JavaScript】【学习心得】学习 JavaScript 第八天](https://github.com/paddingme/Learning-JavaScript/issues/12)
 
 
 
