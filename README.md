@@ -60,6 +60,7 @@
 + [【JavaScript】【学习心得】学习 JavaScript 第七天](https://github.com/paddingme/Learning-JavaScript/issues/11)
 + [【JavaScript】【学习心得】学习 JavaScript 第八天](https://github.com/paddingme/Learning-JavaScript/issues/12)
 + [【JavaScript】【学习心得】学习 JavaScript 第九天](https://github.com/paddingme/Learning-JavaScript/issues/13)
++ [【前端】【学习心得】如何学习前端 第十天](https://github.com/paddingme/Learning-JavaScript/issues/14)
 
 
 
