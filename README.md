@@ -61,7 +61,7 @@
 + [【JavaScript】【学习心得】学习 JavaScript 第八天](https://github.com/paddingme/Learning-JavaScript/issues/12)
 + [【JavaScript】【学习心得】学习 JavaScript 第九天](https://github.com/paddingme/Learning-JavaScript/issues/13)
 + [【前端】【学习心得】如何学习前端 第十天](https://github.com/paddingme/Learning-JavaScript/issues/14)
-+ [【前端】【学习心得】如何学习前端 第十一天](https://github.com/paddingme/Learning-JavaScript/issues/15)
++ [【JavaScript】【学习心得】学习 JavaScript 第十一天](https://github.com/paddingme/Learning-JavaScript/issues/15)
 
 
 
