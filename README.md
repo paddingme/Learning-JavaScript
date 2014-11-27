@@ -12,7 +12,7 @@
 |[第四章 JavaScript 图片库](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-4.md)|2014年10月31日|2014年11月19日|  review+2  |
 |[第五章 最佳实践](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-5.md)|2014年11月3日|2014年11月20日|  review+3  |
 |[第六章 图片库改进版](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-6.md)|2014年11月3日|2014年11月13日|  review+4 |
-|[第七章 动态创建标记](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-7.md)|2014年11月14日|2014年11月22日|  review+4 |
+|[第七章 动态创建标记](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-7.md)|2014年11月14日|2014年11月28日|  review+5 |
 |[第八章 充实文档的内容](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-8.md)|2014年11月20日|2014年11月22日|  review+2|
 |[第九章 CSS-DOM](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-9.md)|2014年11月24日|2014年11月24日|  new+1|
 |[第十章 用 JavaScript 实现动画效果](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-10.md)|2014年11月25日|2014年11月25日|  new+1|
