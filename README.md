@@ -16,6 +16,7 @@
 |[第八章 充实文档的内容](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-8.md)|2014年11月20日|2014年11月22日|  review+2|
 |[第九章 CSS-DOM](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-9.md)|2014年11月24日|2014年11月24日|  new+1|
 |[第十章 用 JavaScript 实现动画效果](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-10.md)|2014年11月25日|2014年11月25日|  new+1|
+|[第十一章 HTML5](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/1-11.md)|2014年12月2日|2014年12月2日|  new+1|
 
 
 
@@ -60,8 +61,14 @@
 + [【JavaScript】【学习心得】学习 JavaScript 第七天](https://github.com/paddingme/Learning-JavaScript/issues/11)
 + [【JavaScript】【学习心得】学习 JavaScript 第八天](https://github.com/paddingme/Learning-JavaScript/issues/12)
 + [【JavaScript】【学习心得】学习 JavaScript 第九天](https://github.com/paddingme/Learning-JavaScript/issues/13)
-+ [【前端】【学习心得】如何学习前端 第十天](https://github.com/paddingme/Learning-JavaScript/issues/14)
++ [【前端】【学习心得】如何学习前端之菜鸟愚见  第十天](https://github.com/paddingme/Learning-JavaScript/issues/14)
 + [【JavaScript】【学习心得】学习 JavaScript 第十一天](https://github.com/paddingme/Learning-JavaScript/issues/15)
++ [【JavaScript】【学习心得】学习 JavaScript 第十二天](https://github.com/paddingme/Learning-JavaScript/issues/16)
++ [【前端】【学习心得】浅谈 BR 标签 第十三天](https://github.com/paddingme/Learning-JavaScript/issues/17)
++ [【前端】【学习心得】浅谈 BR 标签[2] 第十四天](https://github.com/paddingme/Learning-JavaScript/issues/18)
++ [【前端】【学习心得】初识 HTML5 第十五天](https://github.com/paddingme/Learning-JavaScript/issues/19)
+
+
 
 
 
