@@ -24,7 +24,9 @@
 
 |             章节                  |  新建时间    |   更新时间   |更新状态|
 |-----------------------------------|--------------|--------------|--------|
-|[第三章 基本概念](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/2-1.md)|2014年10月21日|2014年10月21日|new+1|
+|[第一章 JavaScript 简介](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/2-1.md)|2014年10月21日|2014年10月21日|new+1|
+|[第二章 在HTML 中使用JavaScript](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/2-2.md)|2014年10月21日|2014年10月21日|new+1|
+|[第三章 基本概念](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/2-2.md)|2014年10月21日|2014年10月21日|new+1|
 
 
 ## 3.《JavaScript 语言精粹》
