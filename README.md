@@ -25,9 +25,9 @@
 |             章节                  |  新建时间    |   更新时间   |更新状态|
 |-----------------------------------|--------------|--------------|--------|
 |[第一章 JavaScript 简介](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/2-1.md)|2014年10月21日|2014年12月2日|review+2|
-|[第二章 在HTML 中使用JavaScript](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/2-2.md)|2014年10月21日|2014年12月2日|review+2|
+|[第二章 在HTML 中使用 JavaScript](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/2-2.md)|2014年10月21日|2014年12月2日|review+2|
 |[第三章 基本概念](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/2-2.md)|2014年10月21日|2014年12月2日|review+2|
-|[第六章 面向对象的程序设计](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/2-6.md)|2014年12月2日|2014年12月2日|new +1|
+|[第六章 面向对象的程序设计](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/2-6.md)|2014年12月2日|2014年12月18日|review +2|
 
 
 ## 3.《JavaScript 语言精粹》
@@ -52,7 +52,7 @@
 |[第二章 数组](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/5-2.md) |2014年10月21日|2014年10月21日|new+1|
 
 
-## 6. [90天慕女神助力计划](http://www.imooc.com/wenda/detail/234205)
+## 6. Mu-Help-Plan
 以下均为对上述学习笔记的总结。
 
 + [【JavaScript】【学习心得】学习 JavaScript 第一天](https://github.com/paddingme/Learning-JavaScript/issues/1)
@@ -70,6 +70,8 @@
 + [【前端】【学习心得】浅谈 BR 标签 第十三天](https://github.com/paddingme/Learning-JavaScript/issues/17)
 + [【前端】【学习心得】浅谈 BR 标签[2] 第十四天](https://github.com/paddingme/Learning-JavaScript/issues/18)
 + [【前端】【学习心得】初识 HTML5 第十五天](https://github.com/paddingme/Learning-JavaScript/issues/19)
++ [【JavaScript】【学习心得】学习 JavaScript 第十六天](https://github.com/paddingme/Learning-JavaScript/issues/20)
++ [【JavaScript】【学习心得】学习 JavaScript 第十七天](https://github.com/paddingme/Learning-JavaScript/issues/21)
 
 
 
