@@ -36,7 +36,7 @@
 |-----------|--------------|--------------|--------|
 |[第二章 语法](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/3-2.md)|2014年10月21日|2014年12月2日|  review+2|
 |[第三章 对象](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/3-3.md)|2014年10月21日|2014年10月21日|  new+1  |
-|[第四章 函数](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/3-4.md)|2014年10月21日|2014年10月21日|  new+1  |
+|[第四章 函数](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/3-4.md)|2014年10月21日|2015年1月8日|  new+1  |
 
 
 ## 4.《JavaScript 权威指南》
