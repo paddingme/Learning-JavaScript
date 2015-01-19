@@ -27,7 +27,7 @@
 |[第一章 JavaScript 简介](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/2-1.md)|2014年10月21日|2014年12月2日|review+2|
 |[第二章 在HTML 中使用 JavaScript](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/2-2.md)|2014年10月21日|2014年12月2日|review+2|
 |[第三章 基本概念](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/2-2.md)|2014年10月21日|2014年12月2日|review+2|
-|[第六章 面向对象的程序设计](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/2-6.md)|2014年12月2日|2014年12月18日|review +2|
+|[第六章 面向对象的程序设计](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/2-6.md)|2015年1月17日|2015年01月13日|update +4|
 
 
 ## 3.《JavaScript 语言精粹》
