@@ -30,18 +30,22 @@
 |[第六章 面向对象的程序设计](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/2-6.md)|2015年1月17日|2015年01月19日|update +5|
 
 
-## 3.《JavaScript 语言精粹》
+## 3.《JavaScript 权威指南》
+|  章节     |  新建时间    |   更新时间   |更新状态|
+|-----------|--------------|--------------|--------|
+|第六章 对象|2015年03月13日||2015年03月13日| new+1 |
+|第八章 函数|2015年03月14日||2015年03月14日| new+1 |
+|第七章 数组|2015年03月15日||2015年03月15日| new+1 |
+|第二十章 客户端存储|2015年03月16日||2015年03月16日| new+1 |
+
+
+## 4.《JavaScript 语言精粹》
 
 |  章节     |  新建时间    |   更新时间   |更新状态|
 |-----------|--------------|--------------|--------|
 |[第二章 语法](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/3-2.md)|2014年10月21日|2014年12月2日|  review+2|
 |[第三章 对象](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/3-3.md)|2014年10月21日|2014年10月21日|  new+1  |
 |[第四章 函数](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/3-4.md)|2014年10月21日|2015年1月8日|  new+1  |
-
-
-## 4.《JavaScript 权威指南》
-
-
 
 
 ## 5.《数据结构与算法 JavaScript 描述》
