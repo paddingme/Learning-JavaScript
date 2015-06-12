@@ -56,6 +56,16 @@
 |[第二章 数组](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/5-2.md) |2014年10月21日|2014年10月21日|new+1|
 
 
+## 6. 《你不知道的 JavaScript》
+
+### 作用域和闭包
+
+|                 章节                  |  新建时间    |   更新时间  |更新状态|
+|---------------------------------------|--------------|--------------|-------|
+|[第一章 作用域是什么](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/6-1.md)|2015年06月12日|2015年06月12日|new+1|
+|[第二章 词法作用域](https://github.com/paddingme/Learning-JavaScript/blob/master/Book/6-2.md) |2015年06月12日|2015年06月12日|new+1|
+
+<!--
 ## 6. Mu-Help-Plan
 以下均为对上述学习笔记的总结。
 
@@ -76,7 +86,7 @@
 + [【前端】【学习心得】初识 HTML5 第十五天](https://github.com/paddingme/Learning-JavaScript/issues/19)
 + [【JavaScript】【学习心得】学习 JavaScript 第十六天](https://github.com/paddingme/Learning-JavaScript/issues/20)
 + [【JavaScript】【学习心得】学习 JavaScript 第十七天](https://github.com/paddingme/Learning-JavaScript/issues/21)
-
+-->
 
 
 
